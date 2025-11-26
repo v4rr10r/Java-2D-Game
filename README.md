@@ -1,8 +1,8 @@
-#Java 2D Game
+# Java 2D Game
 
 A small 2D Java game I created showcasing classic game development features.
 
-##Features
+## Features
 
 - Custom **map creation**
 - **Sprite-based** player and objects
@@ -10,7 +10,7 @@ A small 2D Java game I created showcasing classic game development features.
 - Sound effects and background music
 - Collision detection and simple game physics
 
-##Project Structure
+## Project Structure
 
 my2dgame/
 ├─ main/ → main game code
